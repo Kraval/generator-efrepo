@@ -1,0 +1,31 @@
+{
+  "name": "generator-efrepo",
+  "version": "1.0.0",
+  "description": "An Entity Framework Repository,UnitOfWork generator for Yeoman",  
+  "keywords": [
+    "yeoman-generator",
+    "entityframework",
+    "repository",
+    "unitofwork"
+  ],
+  "homepage": "",
+  "bugs": "",
+  "author": {
+    "name": "Raval K",
+    "url": "https://github.com/ravalk"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.17.7",
+    "yosay": "^1.0.3"
+  },
+   "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
